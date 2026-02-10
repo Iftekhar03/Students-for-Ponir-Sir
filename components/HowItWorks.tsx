@@ -40,7 +40,7 @@ export const HowItWorks: React.FC = () => {
       desc: "নিচের লিংক থেকে ইনফো কার্ডটি Download করে তাদের হোয়াটসঅ্যাপে পাঠিয়ে দিন যাতে তারা তথ্য মনে রাখতে পারে।",
       action: {
         text: "ইনফো কার্ড ডাউনলোড করুন",
-        href: "https://drive.google.com/file/d/1example/view",
+        href: "https://drive.google.com/file/d/16hVGn4NjXmLd7_7m5tpElxQBFpArqxQu/view?usp=sharing",
         icon: <Download size={16} />
       }
     }
